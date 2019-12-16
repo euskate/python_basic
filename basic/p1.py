@@ -1,4 +1,4 @@
-# 목록 확인 2 4 test
+# 목록 확인 2 4 test // git to vscode test
 # $ dir
 # $ ls
 # 디렉토리 이동
