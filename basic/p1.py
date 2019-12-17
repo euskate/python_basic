@@ -1,4 +1,4 @@
-# 목록 확인 2 4 test // vs code to github test
+# 목록 확인 2 4 test // vs code to github test OK. github to vscode test
 # $ dir
 # $ ls
 # 디렉토리 이동
