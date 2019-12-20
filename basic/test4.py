@@ -1,0 +1,1 @@
+import python_basic.basic.game_nocomment2_func
