@@ -100,6 +100,7 @@ def step6():
     while True:input();break   # 한 줄에 여러 문장을 기술 할 때는 구분자로 사용
     
 def step7():
+    # isOneGaming, myTotalScore가 전역변수임을 알린다 => 이를 통해서 수정을 가능케한다
     global isOneGaming
     global myTotalScore
     
@@ -194,4 +195,7 @@ def step7():
     # print('__name__ :', __name__)
     # if __name__ == '__main__':
 
-main()
+if __name__ == '__main__':
+    main()
+else:
+    print('누군가가 나를 모듈로 불러서 특정 기능을 쓰려고 한다.')
